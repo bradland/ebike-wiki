@@ -11,7 +11,7 @@ When discussing ebikes, you'll see these terms used frequently. I'm going to use
 
 The electricity in an ebike starts at the battery and powers the motor. The amount of power transmitted to the motor is regulated by the controller. So the flow looks like this:
 
-`\[BATTERY\]<====>\[CONTROLLER\]<====>\[MOTOR\]`
+`[BATTERY]<====>[CONTROLLER]<====>[MOTOR]`
 
 In terms of specification, there are two main categories of capability: voltage and amperage.
 
