@@ -1,3 +1,5 @@
+## eBike Purchasing Orientation
+
 Ebikes range in price from $700 to $10,000, so establishing budget takes some research. There are two main "branches" to ebikes.
 
 **Local Bike Shop (LBS) vs Online**
