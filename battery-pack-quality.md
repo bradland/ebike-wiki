@@ -1,0 +1,21 @@
+Battery Pack Quality & Construction
+
+If you want to buy a quality pack, you need to understand how they're built:
+
+[**18650 cells**](https://www.google.com/search?q=18650+cells)**.** The vast majority of ebike batteries are built from 18650 lithium-ion cells. They look like a giant AA battery. Panasonic/Sanyo, Samsung, LG, and Sony are the "name brand" manufacturers of 18650 cells. These companies have invested billions of dollars into production facilities with high levels of quality control to ensure the cells are safe and perform up to the advertised standards. It is also possible to buy off-brand or knock-off cells. These cells [vary widely in quality and performance](https://www.youtube.com/watch?v=qMZuHMlRw_0). Off-brand cells may have as little as half their advertised capacity, and may not perform well at the current levels advertised as well. There is significant risk of fire if you overload a lithium-ion battery, so IMO, it is best to stick to name brand cells. Search youtube for ebike battery fire before you buy a knock-off battery.
+
+**Pack construction.** The 18650 cells have to be joined together in order to make a functional battery. Inexpensive battery packs use spot welds to join the cells. Spot welders work by passing a large amount of current between two probes. This current burst is short, but enough to melt fuse the conductors to the batteries. This is generally safe, but tuning the spot welder to apply the right amount of current for the right amount of time requires striking a delicate balance. Weak spot welds will generate heat and will eventually fail.
+
+Better quality packs use something called ultrasonic welding. This welding method does not use heat. The conductor is placed against the battery, and an ultrasonic vibration rubs the two materials together until they fuse. The heat is localized to the atoms in the vicinity of the surfaces.
+
+Using ultrasonic welding, it is possible to connect the individual cells using something called fuse wire. Fuse wire ensures that no individual cell can pass too much current. If an individual cell were to short internally, it would draw a lot of current, burning through the fuse wire. In a traditional spot welded pack, the thick nickel conductor bars would pass enough current to the shorted cell to easily start a fire. Ultrasonic welding + fuse wire isn't a 100% guarantee against a fire, but it certainly helps.
+
+Also part of the construction is the method that the cells are held in place. If the cells move around, the welds that connect them together will be stressed. To prevent this, cell holders are placed on the ends of the cells. The quality and rigidity of these cell holders contribute to the longevity of a pack that will be placed on a bicycle frame that runs over many, many bumps in its lifetime.
+
+**BMS.** With the cells all wired together, the pack needs a BMS, or battery management system. The BMS regulates charging & discharging, and ensures that the individual groups of 18650 cells are balanced (all have the same voltage). A quality BMS will protect the cells and you (from a fire).
+
+**Enclosure.** Once you have the pack and BMS all wired up, you need to put it in something. The simplest method is to wrap it in plastic. The inexpensive blue shrink wrap packs you see online are everything above shoved into a tube of shrink wrap. The shrink wrap offers no protection from impact or a way to mount the battery. It's the cheapest way to enclose a battery. If you go this route, you need to wrap the battery in some kind if padding and put it in a bag on your bike. If you fall while riding, you'll need to carefully inspect the pack for dents. A damaged cell can short, causing a fire.
+
+More typically, you'll see a pack enclosed in a plastic case. These are sometimes called "shark packs" or Hailong packs. Hailong is just a brand name of a popular enclosure. There are tons of generic cases in the Hailong pattern now though.
+
+Notably, there is one manufacturer (Luna Cycle) who encases their entire pack in a hard resin. The result is basically a resin brick, Nothing can move around inside, so this type of pack is considered extremely durable and resistant to water. Great for MTB applications.
