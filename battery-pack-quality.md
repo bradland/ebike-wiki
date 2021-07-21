@@ -1,4 +1,4 @@
-Battery Pack Quality & Construction
+# Battery Pack Quality & Construction
 
 If you want to buy a quality pack, you need to understand how they're built:
 
